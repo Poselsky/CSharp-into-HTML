@@ -1,0 +1,46 @@
+$background-color: rgb(238, 238, 238);
+$custom-red: rgb(182, 0, 0);
+$custom-blue:rgb(0, 14, 136);
+$custom-green:rgb(57, 160, 88);
+$custom-grey: rgb(134, 134, 134);
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px&display=swap');
+
+body{
+    background-color:$background-color;
+    font-size: 20px;
+    font-family: 'Slabo 27px', serif;
+}
+
+.wrapper{
+    white-space: pre;
+    margin:0 20px; 
+
+    .crash{
+        color: $custom-red;
+    }
+
+    .identifier{
+        color: $custom-grey;
+    }
+
+    .identifier_ns{
+        color:$custom-blue;
+        font-weight: bold;
+    }
+    
+    .identifier_class{
+        color: $custom-green;
+    }
+
+    .literal{
+        color: $custom-blue;
+    }
+
+    .keyword{
+        color: $custom-blue;
+    }
+
+    .symbol{
+        color:$custom-red;
+    }
+}

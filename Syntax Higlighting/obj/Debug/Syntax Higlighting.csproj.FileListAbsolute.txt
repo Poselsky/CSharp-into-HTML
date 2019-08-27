@@ -1,0 +1,11 @@
+C:\Users\olegm\OneDrive\Plocha\SyntaxHighlighter\Syntax Higlighting\Syntax Higlighting\obj\Debug\Syntax Higlighting.csproj.CoreCompileInputs.cache
+C:\Users\olegm\OneDrive\Plocha\SyntaxHighlighter\Syntax Higlighting\Syntax Higlighting\bin\Debug\Syntax Higlighting.exe.config
+C:\Users\olegm\OneDrive\Plocha\SyntaxHighlighter\Syntax Higlighting\Syntax Higlighting\bin\Debug\Syntax Higlighting.exe
+C:\Users\olegm\OneDrive\Plocha\SyntaxHighlighter\Syntax Higlighting\Syntax Higlighting\bin\Debug\Syntax Higlighting.pdb
+C:\Users\olegm\OneDrive\Plocha\SyntaxHighlighter\Syntax Higlighting\Syntax Higlighting\obj\Debug\Syntax Higlighting.exe
+C:\Users\olegm\OneDrive\Plocha\SyntaxHighlighter\Syntax Higlighting\Syntax Higlighting\obj\Debug\Syntax Higlighting.pdb
+C:\Users\olegm\OneDrive\Plocha\SyntaxHighlighter\Syntax Higlighting\Syntax Higlighting\obj\Debug\Syntax Higlighting.csprojAssemblyReference.cache
+C:\Users\olegm\OneDrive\Plocha\SyntaxHighlighter\Syntax Higlighting\Syntax Higlighting\bin\Debug\tidy.x64.dll
+C:\Users\olegm\OneDrive\Plocha\SyntaxHighlighter\Syntax Higlighting\Syntax Higlighting\bin\Debug\tidy.x86.dll
+C:\Users\olegm\OneDrive\Plocha\SyntaxHighlighter\Syntax Higlighting\Syntax Higlighting\bin\Debug\TidyHTML5Managed.dll
+C:\Users\olegm\OneDrive\Plocha\SyntaxHighlighter\Syntax Higlighting\Syntax Higlighting\obj\Debug\Syntax Higlighting.csproj.CopyComplete

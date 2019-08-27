@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css?family=Slabo+27px&display=swap");
+body {
+  background-color: #eeeeee;
+  font-size: 20px;
+  font-family: 'Slabo 27px', serif;
+}
+
+.wrapper {
+  white-space: pre;
+  margin: 0 20px;
+}
+
+.wrapper .crash {
+  color: #b60000;
+}
+
+.wrapper .identifier {
+  color: #868686;
+}
+
+.wrapper .identifier_ns {
+  color: #000e88;
+  font-weight: bold;
+}
+
+.wrapper .identifier_class {
+  color: #39a058;
+}
+
+.wrapper .literal {
+  color: #000e88;
+}
+
+.wrapper .keyword {
+  color: #000e88;
+}
+
+.wrapper .symbol {
+  color: #b60000;
+}
+/*# sourceMappingURL=style.css.map */
